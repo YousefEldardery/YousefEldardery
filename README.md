@@ -57,10 +57,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/YousefEldardery/YousefEldardery/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=YousefEldardery.YousefEldardery&left_color=black&right_color=darkcyan"  />
 </div>
