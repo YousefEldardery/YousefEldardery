@@ -57,8 +57,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/YousefEldardery/YousefEldardery/output/snake.svg" alt="Snake animation" />
 
 ###
